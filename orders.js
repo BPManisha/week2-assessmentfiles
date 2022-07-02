@@ -56,7 +56,7 @@ class Ticket {
     ordered at: 7:03 PM
     customer: 575
 */
-let firstTicket = new Ticket("pizza, bread, &Soda"`, "7:03 PM", 575);
+let firstTicket = new Ticket("pizza, bread, &Soda", "7:03 PM", 575);
 //CODE HERE
 
 
